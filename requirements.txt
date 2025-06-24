@@ -1,0 +1,18 @@
+# Core RAG dependencies
+llama-index==0.10.11
+pinecone-client==2.2.4
+openai==1.6.1
+
+# Database
+sqlalchemy==2.0.23
+
+# PDF processing
+pypdf>=4.0.1
+
+# Web framework
+streamlit==1.29.0
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
