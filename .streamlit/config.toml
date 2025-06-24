@@ -26,7 +26,6 @@ showErrorDetails = true
 [runner]
 # Runner configuration
 magicEnabled = true
-fixMatplotlib = true
 
 [logger]
 # Logging configuration
