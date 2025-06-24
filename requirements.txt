@@ -1,12 +1,11 @@
 # Core RAG dependencies
-llamaindex==0.10.11
+llama-index==0.10.11
 pinecone-client==2.2.4
 openai==1.6.1
 
 # Database
 sqlalchemy==2.0.23
 alembic==1.13.1
-sqlite3
 
 # PDF processing
 pypdf==3.17.4
